@@ -83,7 +83,7 @@ function App() {
 		<br/>
 		<hr/>
 		<marquee>
-		<center><p className="copy">@Copy-right 2019-2022 It was developed by Dhanesh.Sravanam <br/>
+		<center><p className="copy">@Copy-right 2022-2023 It was developed by Dhanesh.Sravanam <br/>
 			Ph no.9573423877,7799423877
 		</p></center>
 	    </marquee>
